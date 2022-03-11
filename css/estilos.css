@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(to right, #d3cce3, #e9e4f0);
+}
+
+h1, h2, p{
+    text-align: center;
+}
+p{
+    margin:0 auto;
+    width: 60%;
+    font-size: 20px;
+}
+ul{
+    margin:0 auto;
+    font-size: 20px;
+    width: 20%;
+
+}
+table{
+    margin:0 auto;
+    width: 200px;
+}
+img{
+    margin:0 auto;
+    max-width: 80%;
+    max-height: 25%;
+}
+
+
