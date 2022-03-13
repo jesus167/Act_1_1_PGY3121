@@ -1,7 +1,9 @@
 body{
-    background: linear-gradient(to right, #d3cce3, #e9e4f0);
+    background: linear-gradient(to right, #d9a7c7, #fffcdc);
 }
-
+nav{
+    text-align: right;
+}
 h1, h2, p{
     text-align: center;
 }
@@ -9,6 +11,7 @@ p{
     margin:0 auto;
     width: 60%;
     font-size: 20px;
+    text-align: justify;
 }
 ul{
     margin:0 auto;
